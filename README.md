@@ -1,6 +1,6 @@
-# Автотесты для API Reqres <a target="_blank" href=https://reqres.in>https://reqres.in </a>
+# Автотесты для API [Reqres](https://reqres.in/)
 
-### Для написания автотестов использовались технологии и инструменты:
+## :hammer_and_wrench: Для написания автотестов использовались технологии и инструменты:
 <p align="left">
 <img height="40" width="40" title="Java" src="https://raw.githubusercontent.com/r2ff/r2ff/1cd5ac320c63eada404ddab3cfe71b4fbb5e73b0/svg/java-logo.svg" alt="java">
 <img height="40" width="40" title="Gradle" src="https://raw.githubusercontent.com/r2ff/r2ff/1cd5ac320c63eada404ddab3cfe71b4fbb5e73b0/svg/gradle-logo.svg" alt="gradle">
@@ -9,14 +9,13 @@
 <img height="40" width="40" title="Git" src="https://raw.githubusercontent.com/r2ff/r2ff/1cd5ac320c63eada404ddab3cfe71b4fbb5e73b0/svg/git-logo.svg" alt="git">
 </p>
 
-### Реализованы следующие проверки
+## :pushpin: Реализованы следующие проверки
 
-#### API тесты:
 :heavy_check_mark: Проверка запросов GET, POST и DELETE
 
 :heavy_check_mark: Проверка ответа запроса на разные коды ответа (201, 204, 400, 404)
 
-### Для запуска необходимо выполнить команду:
+## :gear: Для запуска необходимо выполнить команду:
 
 ```bash
 gradle clean test
