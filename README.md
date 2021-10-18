@@ -1,6 +1,6 @@
 # Автотесты для API [Reqres](https://reqres.in/)
 
-## :hammer_and_wrench: Для написания автотестов использовались технологии и инструменты:
+## :hammer_and_wrench: Технологии и инструменты:
 <p align="left">
 <img height="40" width="40" title="Java" src="https://raw.githubusercontent.com/r2ff/r2ff/1cd5ac320c63eada404ddab3cfe71b4fbb5e73b0/svg/java-logo.svg" alt="java">
 <img height="40" width="40" title="Gradle" src="https://raw.githubusercontent.com/r2ff/r2ff/1cd5ac320c63eada404ddab3cfe71b4fbb5e73b0/svg/gradle-logo.svg" alt="gradle">
@@ -9,7 +9,7 @@
 <img height="40" width="40" title="Git" src="https://raw.githubusercontent.com/r2ff/r2ff/1cd5ac320c63eada404ddab3cfe71b4fbb5e73b0/svg/git-logo.svg" alt="git">
 </p>
 
-## :pushpin: Реализованы следующие проверки
+## :pushpin: Реализованы проверки
 
 :heavy_check_mark: Проверка запросов GET, POST и DELETE
 
